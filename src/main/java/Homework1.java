@@ -8,6 +8,7 @@ public class Homework1 {
             String f = "hello!";
             boolean g = true;
             byte h = 127;
+            int r = 10;
             short i = 32766;
             System.out.println(Homework1.calc(1.5f, 2,5,1));
             System.out.println(Homework1.SumBetween10and20(12, 4));
